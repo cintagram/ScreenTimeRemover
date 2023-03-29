@@ -17,5 +17,5 @@ I'm not responsible for any damage caused by this app.
 3. For bug 3 delete the app, then restart your device, and then re-install the app
 
 # Credits:
---For part of the source code:
+--For part of the source code (Mostly getting sandbox access):
 https://github.com/zhuowei/WDBRemoveThreeAppLimit
