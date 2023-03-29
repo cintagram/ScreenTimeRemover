@@ -12,6 +12,6 @@ I'm not responsible for any damage caused by this app.
 3. (Sometimes) App Crashes
 
 # Fixes for those bugs
-For bug 1 Restart your device
-For bug 2 restart your device after you delete screentime. You should now be able to delete the app.
-For bug 3 delete the app, then restart your device, and then re-install the app
+1. For bug 1 Restart your device
+2. For bug 2 restart your device after you delete screentime. You should now be able to delete the app.
+3. For bug 3 delete the app, then restart your device, and then re-install the app
