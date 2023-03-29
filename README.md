@@ -6,3 +6,9 @@ Its Kinda Broken at the moment (Use at your own risk)
 This app is for educational purposes only. 
 I'm not responsible for any damage caused by this app. 
 (Feel free to look over the code yourself and make fixes and/or additions)
+
+# Bugs
+1. Doesn't Work
+2. Cannot Delete App
+
+# Fixes for those bugs
