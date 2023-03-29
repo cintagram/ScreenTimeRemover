@@ -10,5 +10,9 @@ I'm not responsible for any damage caused by this app.
 # Bugs
 1. Doesn't Work
 2. Cannot Delete App
+3. App Crashes
 
 # Fixes for those bugs
+For bug 1 Restart your device
+For bug 2 restart your device after you delete screentime. You should now be able to delete the app.
+For bug 3 delete the app, then restart your device, and then re-install the app
