@@ -1,5 +1,4 @@
-# ScreenTimeRemover
-Its Kinda Broken at the moment (Use at your own risk)
+# ScreenTimeRemover -Its Kinda Broken at the moment (Use at your own risk)
 
 # DISCLAIMER:
 
