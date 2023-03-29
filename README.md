@@ -7,9 +7,9 @@ I'm not responsible for any damage caused by this app.
 (Feel free to look over the code yourself and make fixes and/or additions)
 
 # Bugs
-1. (Sometimes)Doesn't Work
-2. (Sometimes)Cannot Delete App
-3. (Sometimes)App Crashes
+1. (Sometimes) Doesn't Work
+2. (Sometimes) Cannot Delete App
+3. (Sometimes) App Crashes
 
 # Fixes for those bugs
 For bug 1 Restart your device
