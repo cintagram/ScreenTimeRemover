@@ -15,3 +15,7 @@ I'm not responsible for any damage caused by this app.
 1. For bug 1 Restart your device
 2. For bug 2 restart your device after you delete screentime. You should now be able to delete the app.
 3. For bug 3 delete the app, then restart your device, and then re-install the app
+
+# Credits:
+--For part of the source code:
+https://github.com/zhuowei/WDBRemoveThreeAppLimit
