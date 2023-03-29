@@ -1,3 +1,5 @@
+![Untitled design-2](https://user-images.githubusercontent.com/120103991/228590841-117dedfc-d89b-4235-8517-4afaa9084426.png)
+
 # ScreenTimeRemover -Its Kinda Broken at the moment (Use at your own risk)
 
 # DISCLAIMER:
