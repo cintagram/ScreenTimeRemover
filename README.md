@@ -2,6 +2,8 @@
 
 # ScreenTimeRemover -Its Kinda Broken at the moment (Use at your own risk)
 
+# PLEASE NOTE: SUPPORT FOR THIS TOOL HAS ENDED (I no longer have an mdc device
+
 # DISCLAIMER:
 
 This app is for educational purposes only. 
