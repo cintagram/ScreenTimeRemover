@@ -1,8 +1,8 @@
 ![output-onlinepngtools-5](https://user-images.githubusercontent.com/120103991/228591182-82aebc01-da45-41a7-9c32-790df2213b55.png)
 
-# ScreenTimeRemover -Its Kinda Broken at the moment (Use at your own risk)
+# ScreenTimeRemover - WIP
 
-# PLEASE NOTE: SUPPORT FOR THIS TOOL HAS ENDED (I no longer have an mdc device)
+# PLEASE NOTE: WIP, migrating for KFD exploit.
 
 # DISCLAIMER:
 
