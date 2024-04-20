@@ -24,10 +24,11 @@ struct ContentView: View {
     @State private var message = ""
     var body: some View {
         VStack {
-            Text("BluStikOSX's Screentime Remover")
+            Text("PULSErvice Screentime Remover")
                 .font(.title)
                 .foregroundColor(Color.black)
-            Text("Only works on iOS 14.0-15.7.1 and 16.0-16.1.2")
+            Text("Only works on KFD Exploit Compatible OS")
+            Text("Original by BluStikOSX")
             Text("")
             Text("In order to delete the app, restart your device a third time (will fix glitch soon (hopefully))")
 
@@ -96,7 +97,7 @@ struct ContentView: View {
                     }
                 HStack {
                     Button(action: {
-                        if let url = URL(string: "https://github.com/BluStik/ScreenTimeRemover") {
+                        if let url = URL(string: "https://github.com/cintagram/ScreenTimeRemover") {
                             UIApplication.shared.open(url)
                         }
                     }) {
